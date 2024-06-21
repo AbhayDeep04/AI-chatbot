@@ -5,10 +5,6 @@ This is a simple chatbot application built using Flask and OpenAI's GPT-3.5 mode
 ## Installation
 
 1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/yourusername/chatbot.git
-    cd chatbot
-    ```
 
 2. **Create and activate a virtual environment**:
     ```sh
