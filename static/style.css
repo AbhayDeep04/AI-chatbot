@@ -1,0 +1,35 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+}
+
+.title {
+    text-align: center;
+}
+
+.input-container {
+    margin-top: 10px; /* Adjust spacing between input and button */
+}
+
+.input-container input {
+    padding: 5px;
+}
+
+.input-container button {
+    padding: 5px 10px;
+}
+
+#responseContainer {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 600px;
+}
