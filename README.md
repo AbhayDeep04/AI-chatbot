@@ -18,7 +18,8 @@ This is a simple chatbot application built using Flask and OpenAI's GPT-3.5 mode
 
 3. **Install the required packages**:
     ```sh
-    pip install -r requirements.txt
+    pip install flask
+    pip install openai
     ```
 
 4. **Create a `config.py` file**:
@@ -28,9 +29,9 @@ This is a simple chatbot application built using Flask and OpenAI's GPT-3.5 mode
 
 ## Usage
 
-1. **Run the Flask application**:
+1. **Run the app**:
     ```sh
-    python app.py
+    python huggingfacechatbot.py
     ```
 
 2. **Access the chatbot**:
